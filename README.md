@@ -1,16 +1,24 @@
-## Hi there 👋
+Hey there! 👋
 
-<!--
-**alexedosa/alexedosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer based in Nigeria.
 
-Here are some ideas to get you started:
+Backend / Full-Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build backend systems, APIs, and AI-powered products, with experience across the frontend as well.
+I use AI to accelerate development while owning the architecture, decisions, review, testing, and final implementation.
+
+Currently
+Building and documenting projects while growing my skills in:
+→ LLM integrations
+→ System architecture
+→ Developer tooling
+
+Tech
+→ Python · Django · FastAPI · React · TypeScript
+→ PostgreSQL · Redis · Docker · GitHub Actions
+→ REST APIs · JWT · AI/LLM integrations
+
+Contact
+→ LinkedIn: www.linkedin.com/in/daniel-alex-edosa-91a50b349
+→ Email: alexedosadaniel@gmail.com
+→ Portfolio: Coming soon
