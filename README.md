@@ -1,6 +1,6 @@
 Hey there! 👋
 
-I'm a software engineer based in Nigeria.
+I'm Daniel, a software engineer based in Nigeria.
 
 Backend / Full-Stack Developer
 
