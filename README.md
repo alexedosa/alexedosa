@@ -1,14 +1,14 @@
-#I'm Daniel.
+# I'm Daniel.
 
-Software Engineer · Backend & AI Systems 
+Software Engineer · Backend & AI Systems
 
-I'm a software engineer based in Nigeria. I build backend systems, APIs, and AI-powered products, with experience across the frontend as well.
+Based in Nigeria, I build backend systems, APIs, and AI-powered products, with experience across the frontend as well.
 
 I use AI to accelerate development while owning the architecture, decisions, review, testing, and final implementation.
 
 ## Currently
 
-Building and documenting projects while growing my skills in:
+Building and documenting projects while exploring:
 
 - LLM integrations
 - System architecture
