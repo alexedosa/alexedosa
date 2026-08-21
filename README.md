@@ -1,4 +1,4 @@
-#Hey there! I'm Daniel.
+#I'm Daniel.
 
 Software Engineer · Backend & AI Systems 
 
