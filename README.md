@@ -1,6 +1,6 @@
-# Daniel
+#Hey there! I'm Daniel.
 
-Backend / Full-Stack Developer
+Software Engineer · Backend & AI Systems 
 
 I'm a software engineer based in Nigeria. I build backend systems, APIs, and AI-powered products, with experience across the frontend as well.
 
